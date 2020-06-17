@@ -9,14 +9,16 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "Enum.ts"
     ],
     "testFiles": [
-        "test.ts"
+        "test.ts",
+        "Test.ts"
     ],
     "public": true,
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
